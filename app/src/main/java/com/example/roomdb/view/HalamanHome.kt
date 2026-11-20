@@ -38,7 +38,7 @@ import com.example.roomdb.uicontroller.DestinasiHome
 import com.example.roomdb.uicontroller.DestinasiNavigasi
 import com.example.roomdb.uicontroller.SiswaTopAppBar
 import com.example.roomdb.viewmodel.HomeViewModel
-import com.example.roomdb.viewmodel.PenyediaViewModel
+import com.example.roomdb.viewmodel.provider.PenyediaViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
