@@ -1,7 +1,6 @@
-package com.example.roomdb.view.route
+package com.example.roomdb.uicontroller
 
 import com.example.activity7_roomdatabase.R
-import com.example.roomdb.uicontroller.DestinasiNavigasi
 
 object DestinasiDetailSiswa : DestinasiNavigasi {
     override val route = "detail_siswa"
@@ -9,3 +8,4 @@ object DestinasiDetailSiswa : DestinasiNavigasi {
     const val itemIdArg = "idSiswa"
     val routeWithArgs = "$route/{$itemIdArg}"
 }
+
