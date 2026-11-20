@@ -17,7 +17,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.example.activity7_roomdatabase.R
+import com.example.roomdb.R
 import com.example.roomdb.uicontroller.DestinasiDetailSiswa.itemIdArg
 import com.example.roomdb.view.DetailSiswaScreen
 import com.example.roomdb.view.EditSiswaScreen
