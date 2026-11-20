@@ -36,7 +36,7 @@ import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.activity7_roomdatabase.R
+import com.example.roomdb.R
 import com.example.roomdb.room.Siswa
 import com.example.roomdb.viewmodel.DetailSiswaUiState
 import com.example.roomdb.viewmodel.DetailViewModel

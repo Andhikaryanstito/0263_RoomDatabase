@@ -33,7 +33,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.activity7_roomdatabase.R
+import com.example.roomdb.R
 import com.example.roomdb.room.Siswa
 import com.example.roomdb.uicontroller.DestinasiHome
 import com.example.roomdb.uicontroller.SiswaTopAppBar
