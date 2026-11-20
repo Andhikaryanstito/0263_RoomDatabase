@@ -29,7 +29,7 @@ import com.example.roomdb.uicontroller.DestinasiNavigasi
 import com.example.roomdb.uicontroller.SiswaTopAppBar
 import com.example.roomdb.viewmodel.DetailSiswa
 import com.example.roomdb.viewmodel.EntryViewModel
-import com.example.roomdb.viewmodel.PenyediaViewModel
+import com.example.roomdb.viewmodel.provider.PenyediaViewModel
 import com.example.roomdb.viewmodel.UIStateSiswa
 import kotlinx.coroutines.launch
 
