@@ -1,6 +1,7 @@
-package com.example.roomdb.uicontroller
-import com.example.activity7_roomdatabase.R
+package com.example.roomdb.view.route
 
+import com.example.activity7_roomdatabase.R
+import com.example.roomdb.uicontroller.DestinasiNavigasi
 
 object DestinasiDetailSiswa : DestinasiNavigasi {
     override val route = "detail_siswa"
